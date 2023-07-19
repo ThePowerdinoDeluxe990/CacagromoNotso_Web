@@ -3,3 +3,5 @@ Literalmente he tenido que cambiar el nombre del repositorio porque si no google
 
 
 No voy en broma, gracias a esta pagina mi dominio de github esta blacklisted de google.
+
+He tenido que quitar la pagina.
